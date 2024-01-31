@@ -1,0 +1,1 @@
+Aqui ficarão todos os scripts JS que ficam na parte chamada specifc media.
